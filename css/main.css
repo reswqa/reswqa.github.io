@@ -1,4 +1,24 @@
 /*博主标记 CSS开始*/
+.header {
+  background-image: url("http://7xraal.com1.z0.glb.clouddn.com/header_background.jpg") !important;
+}
+.brand {
+  background: rgba(0,0,0,0) none repeat scroll 0 0 !important;
+}
+.site-title {
+  font-family: "Brush Script MT";
+  font-size: 67px !important;
+}
+.menu {
+  background: rgba(255,255,255,0.65) none repeat scroll 0 0;
+  border-radius: initial;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding-left: 0;
+  text-align: center;
+  width: 450px;
+}
 .sskadmin {
   background-color: #00a67c !important;
   border-color: #01b171 !important;
@@ -1764,7 +1784,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #3416b4;
+  background: #3dff5e;
 }
 .links-of-blogroll {
   font-size: 13px;
